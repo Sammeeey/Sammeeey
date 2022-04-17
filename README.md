@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 ![Ask me about Python](./AskMePython.gif)
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammeeey&theme=default&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammeeey&layout=compact)
