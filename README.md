@@ -5,6 +5,8 @@
 <a href="https://www.linkedin.com/in/samuel-hartmann-berlin/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
 <a href="https://github.com/FrancescoXX"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="35"/></a>
 
+![linkedin-open-to-work-permanently](https://user-images.githubusercontent.com/49591562/171230834-6dd5298c-ba60-4b95-a9ee-b5e29c17d305.png)
+
 <!--
 <a href="https://www.tiktok.com/@francesco.ciulla"><img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" title="TikTok" alt="TikTok Account" width="38"/></a> 
 <a href="https://www.youtube.com/c/FrancescoCiulla"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
