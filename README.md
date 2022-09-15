@@ -33,7 +33,9 @@ Here are some ideas to get you started:
   - [Samuel@SamuelHartmann.de](mailto:samuel@samuelhartmann.de)
   - 🐦Twitter: [CoderMatching](https://twitter.com/CoderMatching)
 
+<!--
 ![Ask me about Python](./AskMePython.gif)
+-->
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammeeey&theme=default&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammeeey&layout=compact)
