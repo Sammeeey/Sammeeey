@@ -24,14 +24,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [CoderMatching](https://twitter.com/CoderMatching)
-- 🌱 I’m currently learning [Django](https://www.djangoproject.com/)
-- 👯 I’m looking to collaborate on [CoderMatching](https://twitter.com/CoderMatching)
-- 🤔 I’m looking for collaboration/support/exhange regarding frontend and maybe Django in [CoderMatching](https://twitter.com/CoderMatching)
+- 🔭 I’m currently working on ~~[CoderMatching](https://twitter.com/CoderMatching)~~ [stuff...](https://twitter.com/SamHartmannCom)
+- 🌱 I’m currently ~~learning [Django](https://www.djangoproject.com/)~~ [interviewing people who make a living beyond salaried jobs](https://www.youtube.com/channel/UCEH317b5BMZKX0Aoh7FTeqQ)
+- 👯 I’m looking to [collaborate on social media growth & eventually hire freelancers](https://twitter.com/SamHartmannCom)
+- 🤔 ~~I’m looking for collaboration/support/exhange regarding frontend and maybe Django in [CoderMatching](https://twitter.com/CoderMatching)~~
 - 💬 Ask me about Permaculture, Plant Science🌱🧫, Mindfulness & Meditation, Community, Business, Freelancing, Financial Independence
-- 📫 How to reach me:
-  - [Samuel@SamuelHartmann.de](mailto:samuel@samuelhartmann.de)
-  - 🐦Twitter: [CoderMatching](https://twitter.com/CoderMatching)
+- 📫 Reach me on 🐦Twitter: [@SamHartmannCom](https://twitter.com/SamHartmannCom)
 
 <!--
 ![Ask me about Python](./AskMePython.gif)
