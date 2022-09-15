@@ -6,7 +6,7 @@
 <a href="https://github.com/sammeeey"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/untitled-2_5.png" title="GitHub" alt="GitHub" width="35"/></a>
 <a href="https://stackoverflow.com/users/12946000/sammeeey"><img src="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a" title="stackoverflow" alt="stackoverflow" width="55"/></a>
 
-[![Many Ways To Wealth](https://pbs.twimg.com/profile_banners/1478624725559615490/1661178101/1500x500)
+[![Many Ways To Wealth](https://pbs.twimg.com/profile_banners/1478624725559615490/1661178101/1500x500)](https://twitter.com/samhartmanncom)
 
 <!--
 <a href="https://www.tiktok.com/@francesco.ciulla"><img src="https://cdn.worldvectorlogo.com/logos/tiktok-logo.svg" title="TikTok" alt="TikTok Account" width="38"/></a> 
